@@ -39,8 +39,8 @@ O usuário com privilégio de administrador, para teste completo da aplicação,
 
 # Código
 
-<li><a href=""> Código Fonte</a></li>
+<li><a > Código Fonte</a></li>
 
 # Apresentação
 
-<li><a href=""> Apresentação da solução</a></li>
+<li><a> Apresentação da solução</a></li>
