@@ -1,6 +1,6 @@
 # cafeterias-e-lojas-onlime (2025)
 Análise e Desenvolvimento de Sistemas - ADS
-Aplicação para gerenciamento de carteira de investimentos em ações e criptomoedas.
+
 
 ## Integrantes
 
